@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="sing_in">sing_in</string>
+    <string name="have_an_account">have_an_account</string>
+    <string name="sing_up">sing_up</string>
+    <string name="login">login</string>
+    <string name="sub_login">sub_login</string>
+</resources>
